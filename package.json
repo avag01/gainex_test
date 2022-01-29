@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avag01/gainex_test/issues"
   },
-  "homepage": "https://github.com/avag01/gainex_test#readme"
+  "homepage": "https://github.com/avag01/gainex_test#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
