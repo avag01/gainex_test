@@ -1,0 +1,19 @@
+{
+  "name": "gainex_test",
+  "version": "1.0.0",
+  "description": "Test terraform gcp app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avag@mamajanyan@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avag01/gainex_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avag01/gainex_test/issues"
+  },
+  "homepage": "https://github.com/avag01/gainex_test#readme"
+}
